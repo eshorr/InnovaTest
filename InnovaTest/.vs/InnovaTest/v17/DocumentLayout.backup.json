@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\InnovaTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|c:\\users\\hp\\source\\repos\\innovatest\\innovatest\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|solutionrelative:innovatest\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|c:\\users\\hp\\source\\repos\\innovatest\\innovatest\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|solutionrelative:innovatest\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|c:\\users\\hp\\source\\repos\\innovatest\\innovatest\\views\\people\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|solutionrelative:innovatest\\views\\people\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|c:\\users\\hp\\source\\repos\\innovatest\\innovatest\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|solutionrelative:innovatest\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|c:\\users\\hp\\source\\repos\\innovatest\\innovatest\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|solutionrelative:innovatest\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|c:\\users\\hp\\source\\repos\\innovatest\\innovatest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|solutionrelative:innovatest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|c:\\users\\hp\\source\\repos\\innovatest\\innovatest\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|solutionrelative:innovatest\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|c:\\users\\hp\\source\\repos\\innovatest\\innovatest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|solutionrelative:innovatest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|c:\\users\\hp\\source\\repos\\innovatest\\innovatest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|solutionrelative:innovatest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|c:\\users\\hp\\source\\repos\\innovatest\\innovatest\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|solutionrelative:innovatest\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|c:\\users\\hp\\source\\repos\\innovatest\\innovatest\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|solutionrelative:innovatest\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|c:\\users\\hp\\source\\repos\\innovatest\\innovatest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|solutionrelative:innovatest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|c:\\users\\hp\\source\\repos\\innovatest\\innovatest\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|solutionrelative:innovatest\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|c:\\users\\hp\\source\\repos\\innovatest\\innovatest\\views\\people\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|solutionrelative:innovatest\\views\\people\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|c:\\users\\hp\\source\\repos\\innovatest\\innovatest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|solutionrelative:innovatest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|c:\\users\\hp\\source\\repos\\innovatest\\innovatest\\innovatest.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|solutionrelative:innovatest\\innovatest.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|c:\\users\\hp\\source\\repos\\innovatest\\innovatest\\innovatest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F13482F4-00E2-4C63-99A8-42414CA63938}|InnovaTest\\InnovaTest.csproj|solutionrelative:innovatest\\innovatest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "InnovaTest\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\Models\\Person.cs",
+              "RelativeToolTip": "InnovaTest\\Models\\Person.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:49:26.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\appsettings.json",
+              "RelativeDocumentMoniker": "InnovaTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\appsettings.json",
+              "RelativeToolTip": "InnovaTest\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-17T15:42:47.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "InnovaTest\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\appsettings.Development.json",
+              "RelativeToolTip": "InnovaTest\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-17T15:11:21.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "InnovaTest\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "InnovaTest\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:50:49.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "InnovaTest\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "InnovaTest\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:58:59.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PeopleController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\Controllers\\PeopleController.cs",
+              "RelativeDocumentMoniker": "InnovaTest\\Controllers\\PeopleController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\Controllers\\PeopleController.cs",
+              "RelativeToolTip": "InnovaTest\\Controllers\\PeopleController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:48:48.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\Views\\People\\Create.cshtml",
+              "RelativeDocumentMoniker": "InnovaTest\\Views\\People\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\Views\\People\\Create.cshtml",
+              "RelativeToolTip": "InnovaTest\\Views\\People\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T14:52:27.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\Program.cs",
+              "RelativeDocumentMoniker": "InnovaTest\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\Program.cs",
+              "RelativeToolTip": "InnovaTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:29:21.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "InnovaTest\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "InnovaTest\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:49:53.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "InnovaTest\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "InnovaTest\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T16:42:52.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "InnovaTest\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "InnovaTest\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T16:44:10.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "InnovaTest\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "InnovaTest\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T17:39:29.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "InnovaTest\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "InnovaTest\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T17:39:40.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\Views\\People\\Index.cshtml",
+              "RelativeDocumentMoniker": "InnovaTest\\Views\\People\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\Views\\People\\Index.cshtml",
+              "RelativeToolTip": "InnovaTest\\Views\\People\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T14:51:52.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "InnovaTest\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "InnovaTest\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T16:43:25.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InnovaTest.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\InnovaTest.csproj",
+              "RelativeDocumentMoniker": "InnovaTest\\InnovaTest.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\InnovaTest.csproj",
+              "RelativeToolTip": "InnovaTest\\InnovaTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-17T15:04:08.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InnovaTest",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\InnovaTest.csproj",
+              "RelativeDocumentMoniker": "InnovaTest\\InnovaTest.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\InnovaTest\\InnovaTest\\InnovaTest.csproj",
+              "RelativeToolTip": "InnovaTest\\InnovaTest.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-17T15:10:03.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
